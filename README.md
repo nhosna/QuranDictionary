@@ -4,7 +4,7 @@
 
 ## Download
 
-[![Download App](https://github.com/MoodyMelon/QuranDictionary/blob/main/Icons/download-apk-icon.png)](https://github.com/MoodyMelon/QuranDictionary/blob/main/Quran%20Dictionary.apk)
+[![Download App](https://github.com/MoodyMelon/QuranDictionary/blob/main/Icons/download-apk-icon.png)](https://github.com/MoodyMelon/QuranDictionary/raw/main/Quran%20Dictionary.apk)
 
 
 ## Screenshots

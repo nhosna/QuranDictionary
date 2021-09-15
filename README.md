@@ -1,6 +1,8 @@
 # QuranDictionary
-<!-- ![Logo](https://github.com/MoodyMelon/UTGolestan/blob/main/Icons/golestan-icon.png) -->
-
+ 
+<p align="center">
+  <img src="https://github.com/MoodyMelon/QuranDictionary/blob/main/Icons/logo-small.png" />
+</p>
 
 ## Download
 
